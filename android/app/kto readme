@@ -1,0 +1,4 @@
+keystore = kto.jks
+alias = kto
+storepass = 12345678
+keypass = 12345678

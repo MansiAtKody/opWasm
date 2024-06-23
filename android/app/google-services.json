@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "125348210814",
+    "project_id": "dasher-9a393",
+    "storage_bucket": "dasher-9a393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125348210814:android:96cc70aaf546d29ca5102f",
+        "android_client_info": {
+          "package_name": "com.example.kody_operator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125348210814-6kgu6cigt70m6ctldbevfpiuk7rdsh09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi6Jvm4ewpOXS5_9qDrZj0W_8IZH1teaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125348210814-6kgu6cigt70m6ctldbevfpiuk7rdsh09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125348210814:android:df1ee1e8adbe286fa5102f",
+        "android_client_info": {
+          "package_name": "com.kody.kte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125348210814-6kgu6cigt70m6ctldbevfpiuk7rdsh09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi6Jvm4ewpOXS5_9qDrZj0W_8IZH1teaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125348210814-6kgu6cigt70m6ctldbevfpiuk7rdsh09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

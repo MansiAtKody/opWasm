@@ -1,0 +1,19 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Clip path group">
+<mask id="mask0_186_3571" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<g id="clip-path-7">
+<path id="Rectangle 39547" d="M24 0H0V24H24V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_186_3571)">
+<g id="Mask Group 120">
+<g id="Group 268">
+<path id="Path 833" d="M13.5735 20.9192L13.3065 20.5641C13.0047 20.1268 12.8133 19.6227 12.7489 19.0952C12.6844 18.5677 12.7488 18.0324 12.9365 17.5352" stroke="#8F8F8F" stroke-width="1.5" stroke-linecap="round"/>
+<path id="Path 834" d="M9.34375 20.9192L9.61075 20.5641C9.91255 20.1267 10.1039 19.6227 10.1683 19.0952C10.2327 18.5676 10.1684 18.0324 9.98075 17.5352" stroke="#8F8F8F" stroke-width="1.5" stroke-linecap="round"/>
+<path id="Path 835" d="M7.22852 20.918H15.6865" stroke="#8F8F8F" stroke-width="1.5" stroke-linecap="round"/>
+<path id="Path 836" d="M13.15 4H9.767C6.993 4 5.607 3.99999 4.623 4.68799C4.25918 4.94273 3.94274 5.25917 3.688 5.62299C3 6.60599 3 7.993 3 10.767C3 13.541 3 14.927 3.688 15.91C3.94274 16.2738 4.25918 16.5903 4.623 16.845C5.606 17.534 6.993 17.534 9.767 17.534H13.15C15.924 17.534 17.311 17.534 18.294 16.845C18.6578 16.5902 18.9742 16.2738 19.229 15.91C19.917 14.927 19.917 13.54 19.917 10.767C19.917 7.994 19.917 6.60599 19.229 5.62299C18.9742 5.25919 18.6578 4.94276 18.294 4.68799C17.311 3.99999 15.924 4 13.15 4Z" stroke="#8F8F8F" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,163 @@
+"editCompany": [
+{
+"fieldName": "companyImage",
+"responseFieldDTO": "companyProfileImage",
+"type": "image",
+"isLanguageEffected": false,
+"parentFieldName": null,
+"orderIndex": 0,
+"enabled": true,
+"validations": {
+"required": true,
+"min": 3,
+"max": 255
+},
+"messages": {
+"invalidMessage": "keyCompanyImageInvalidValidation",
+"requiredMessage": "keyCompanyImageRequiredValidation",
+"minMessage": "keyCompanyImageRequiredValidation",
+"maxMessage": "keyCompanyImageRequiredValidation"
+},
+"placeholder": "keyCompanyImage",
+"format": null,
+"possibleValues": null,
+"isMultipleSelection": false,
+"url": null,
+"urlMethod": null,
+"bodyParameter": ""
+},
+{
+"fieldName": "companyName",
+"responseFieldDTO": "name",
+"type": "textfield",
+"languageResponseFieldDTO": "companyNameValues",
+"isLanguageEffected": true,
+"parentFieldName": null,
+"orderIndex": 0,
+"enabled": true,
+"validations": {
+"required": true,
+"min": 1,
+"max": 25
+},
+"messages": {
+"invalidMessage": "keyCompanyNameInvalidValidation",
+"requiredMessage": "keyCompanyNameRequired",
+"minMessage": "keyCompanyNameIsMin",
+"maxMessage": "keyCompanyNameIsMax"
+},
+"placeholder": "keyCompanyName",
+"format": null,
+"possibleValues": null,
+"isMultipleSelection": false,
+"url": null,
+"urlMethod": null,
+"bodyParameter": ""
+},
+{
+"fieldName": "contactNo",
+"responseFieldDTO": "contactNumber",
+"type": "number",
+"isLanguageEffected": false,
+"parentFieldName": null,
+"orderIndex": 0,
+"enabled": true,
+"validations": {
+"required": true,
+"min": 10,
+"max": 10
+},
+"messages": {
+"invalidMessage": "keyContactNumberInvalidValidation",
+"requiredMessage": "keyContactNumberRequired"
+},
+"placeholder": "keyContactNumber",
+"format": null,
+"possibleValues": null,
+"isMultipleSelection": false,
+"url": null,
+"urlMethod": null,
+"bodyParameter": ""
+},
+{
+"fieldName": "companyEmailId",
+"responseFieldDTO": "companyEmail",
+"type": "email",
+"isLanguageEffected": false,
+"parentFieldName": null,
+"orderIndex": 0,
+"enabled": true,
+"validations": {
+"required": true,
+"min": 3,
+"max": 255
+},
+"messages": {
+"invalidMessage": "keyCompanyEmailInvalidValidation",
+"requiredMessage": "keyCompanyEmailRequired",
+"minMessage": "keyCompanyEmailIsMin",
+"maxMessage": "keyCompanyEmailIsMax"
+},
+"placeholder": "keyCompanyEmailId",
+"format": null,
+"possibleValues": null,
+"isMultipleSelection": false,
+"url": null,
+"urlMethod": null,
+"bodyParameter": ""
+},
+{
+"fieldName": "customerCareEmailId",
+"responseFieldDTO": "customerCareEmail",
+"type": "email",
+"isLanguageEffected": false,
+"parentFieldName": null,
+"orderIndex": 0,
+"enabled": true,
+"validations": {
+"required": true,
+"min": 3,
+"max": 255
+},
+"messages": {
+"invalidMessage": "keyCustomerCareEmailInvalidValidation",
+"requiredMessage": "keyCustomerCareEmailRequired",
+"minMessage": "keyCustomerCareEmailIsMin",
+"maxMessage": "keyCustomerCareEmailIsMax"
+},
+"placeholder": "keyCustomerCareEmailId",
+"format": null,
+"possibleValues": null,
+"isMultipleSelection": false,
+"url": null,
+"urlMethod": null,
+"bodyParameter": ""
+},
+{
+"fieldName": "companyAddress",
+"responseFieldDTO": "address",
+"type": "textfield",
+"languageResponseFieldDTO": "companyAddressValues",
+"isLanguageEffected": true,
+"parentFieldName": null,
+"orderIndex": 0,
+"enabled": true,
+"validations": {
+"required": true,
+"min": 10,
+"max": 60
+},
+"messages": {
+"requiredMessage": "keyCompanyAddressRequired",
+"minMessage": "keyCompanyAddressIsMin",
+"maxMessage": "keyCompanyAddressIsMax"
+},
+"placeholder": "keyCompanyAddress",
+"format": null,
+"possibleValues": null,
+"isMultipleSelection": false,
+"url": null,
+"urlMethod": null,
+"bodyParameter": ""
+}
+],

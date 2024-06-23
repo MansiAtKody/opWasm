@@ -1,0 +1,24 @@
+<svg width="113" height="69" viewBox="0 0 113 69" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="iOS Toggle">
+<g clip-path="url(#clip0_1346_9147)">
+<rect id="Track" width="113" height="68.6863" rx="34.3431" fill="#67CE67"/>
+<g id="Knob" filter="url(#filter0_d_1346_9147)">
+<rect x="48.7451" y="4.42969" width="59.8235" height="59.8235" rx="29.9118" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_1346_9147" x="33.2353" y="-4.43306" width="90.8428" height="90.8438" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="6.64706"/>
+<feGaussianBlur stdDeviation="7.7549"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1346_9147"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1346_9147" result="shape"/>
+</filter>
+<clipPath id="clip0_1346_9147">
+<rect width="113" height="68.6863" rx="34.3431" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Clip path group">
+<mask id="mask0_186_3593" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<g id="clip-path-9">
+<path id="Rectangle 39545" d="M24 0H0V24H24V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_186_3593)">
+<g id="Mask Group 118">
+<g id="Group 265">
+<path id="Path 829" d="M2 16.112V5H22V16.112C22 16.7013 21.7659 17.2665 21.3492 17.6832C20.9325 18.0999 20.3673 18.334 19.778 18.334H4.222C3.63269 18.334 3.06752 18.0999 2.65081 17.6832C2.2341 17.2665 2 16.7013 2 16.112Z" stroke="#8F8F8F" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path 830" d="M6.44531 9.44531H8.66731" stroke="#8F8F8F" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path 831" d="M6.44531 13.8906H8.66731" stroke="#8F8F8F" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Rectangle 39544" d="M17.5553 9.44531H13.1113V13.8893H17.5553V9.44531Z" stroke="#8F8F8F" stroke-width="1.5" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
